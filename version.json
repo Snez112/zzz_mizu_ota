@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.28",
+  "mod_version": "1.0.29",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Add Player/Combat hooks: God Mode, Damage Multiplier, Instant Energy, Player Speed"
+  "changelog": "Add Fake UID (Text.set_text & TMP_Text.set_text) + general ADRP reloc"
 }

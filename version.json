@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.27",
+  "mod_version": "1.0.28",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "GalgameUpdate: call PlayExit once per instance instead of OnClickSkipUI confirm popup"
+  "changelog": "Add Player/Combat hooks: God Mode, Damage Multiplier, Instant Energy, Player Speed"
 }

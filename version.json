@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.11",
+  "mod_version": "1.0.12",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Real runtime ACE/IL2CPP/orig_apk status indicators"
+  "changelog": "Add libanogs.so FNV-64 fingerprint & GOT watchdog fail-safe"
 }

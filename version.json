@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.14",
+  "mod_version": "1.0.15",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Set g_in_chat inside ChatUpdate + log StartSkipChat/TrySkipTransition"
+  "changelog": "Runtime trace dialogue click/input handlers"
 }

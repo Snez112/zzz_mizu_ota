@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.5",
+  "mod_version": "1.0.6",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
-  "dex_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/classes_mod.dex",
+  "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Delayed ShowTransition->TrySkipTransition + TOOL_TYPE_FINGER tap"
+  "changelog": "Custom floating menu avatar icon"
 }

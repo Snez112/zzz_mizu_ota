@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.9",
+  "mod_version": "1.0.10",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Gate Auto Dialog strictly to in-chat state"
+  "changelog": "Rebrand menu header to remie_zzz"
 }

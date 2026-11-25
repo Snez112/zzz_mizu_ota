@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.13",
+  "mod_version": "1.0.14",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Pure IL2CPP auto-dialog (TrySkipTransition + StartSkipChat + OnUIClose), zero screen taps"
+  "changelog": "Set g_in_chat inside ChatUpdate + log StartSkipChat/TrySkipTransition"
 }

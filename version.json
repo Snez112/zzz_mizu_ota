@@ -1,8 +1,8 @@
 {
-  "mod_version": "1.0.30",
+  "mod_version": "1.0.31",
   "game_version": "3.3.0",
   "so_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/libzzz_mod.so",
   "dex_url": "",
   "launcher_url": "https://raw.githubusercontent.com/Snez112/zzz_mizu_ota/main/ota/ZZZLauncher.apk",
-  "changelog": "Fix scroll table + GodMode CanAttackHit + MultiHit DispatchHit + LocText FakeUID"
+  "changelog": "Add HpDirect (0xD0576B0) multi-hit/godmode + increment hitId + DispatchHit log"
 }
